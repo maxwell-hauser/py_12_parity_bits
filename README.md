@@ -412,9 +412,4 @@ D₃ ─────────┘
 ← Previous: [Chapter 11 - Coding Schemas](../ch11_coding_schemas/) | Next: [Chapter 13 - Clock Signals](../ch13_clock_signals/) →
 
 ---
-
-## Authorship
-Authored by Maxwell Hauser on November 19, 2025
-
-## License
-MIT License
+<!-- License moved to dedicated LICENSE file -->
